@@ -47,6 +47,12 @@
         <title value="Use case 4" />
         <kind value="page" />
         <format value="text/markdown" />
+        <page>
+          <source value="Usecase4.1.md" />
+          <title value="Use case 4.1" />
+          <kind value="page" />
+          <format value="text/markdown" />
+        </page>
       </page>
     </page>
   </page>
