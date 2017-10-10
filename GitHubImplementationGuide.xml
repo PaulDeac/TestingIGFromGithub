@@ -1,9 +1,4 @@
-<ImplementationGuide xmlns="http://hl7.org/fhir">
-  <url value="https://localhost:44374/ui/ig/GitHubImplementationGuide" />
-  <name value="GitHub Implementation Guide" />
-  <status value="draft" />
-  <description />
-  <fhirVersion value="STU3" />
+<ImplementationGuide>
   <binary value="GitHubImplementationGuide-TreeTable.css" />
   <page>
     <title value="GitHub Implementation Guide" />
