@@ -31,14 +31,14 @@
         <format value="text/markdown" />
       </page>
       <page>
-        <source value="Usecase2.md" />
-        <title value="Use case 2" />
+        <source value="Usecase3.md" />
+        <title value="Use case 3" />
         <kind value="page" />
         <format value="text/markdown" />
       </page>
       <page>
-        <source value="Usecase3.md" />
-        <title value="Use case 3" />
+        <source value="Usecase2.md" />
+        <title value="Use case 2" />
         <kind value="page" />
         <format value="text/markdown" />
       </page>
