@@ -1,4 +1,4 @@
-ImplementationGuide xmlns="http://hl7.org/fhir">
+<ImplementationGuide xmlns="http://hl7.org/fhir">
   <url value="https://localhost:44374/ui/ig/GitHubImplementationGuide" />
   <name value="GitHub Implementation Guide" />
   <status value="draft" />
@@ -33,6 +33,12 @@ ImplementationGuide xmlns="http://hl7.org/fhir">
       <page>
         <source value="Usecase2.md" />
         <title value="Use case 2" />
+        <kind value="page" />
+        <format value="text/markdown" />
+      </page>
+      <page>
+        <source value="Usecase3.md" />
+        <title value="Use case 3" />
         <kind value="page" />
         <format value="text/markdown" />
       </page>
